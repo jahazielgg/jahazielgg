@@ -1,25 +1,65 @@
 # Hi, I'm Jahaziel! 👋
 
-I'm a Software Engineering student passionate about building meaningful digital solutions and beautiful user experiences. I enjoy combining strong backend logic with intuitive frontend interfaces — and adding a touch of design and language localization when needed.
+I'm a Software Engineering student passionate about building scalable web apps with clean architecture, intuitive UI, and internationalization in mind. Whether I'm writing APIs or composing standalone components, I love delivering thoughtful, real-world solutions.
+
+---
 
 ### 🚀 Tech Stack & Tools
 
-- **Frontend:** Vue 3, PrimeVue, PrimeFlex, Vue I18n, HTML5, CSS3
-- **Backend:** Flask (Python), Spring Boot (Java), SQLAlchemy, REST APIs
-- **Database:** PostgreSQL
-- **DevOps & Infra:** NGINX, Docker, Git, GitHub
-- **Others:** Axios, Postman, VS Code, Figma (for UI drafts)
+**Frontend**
 
-### 🛠 Projects I've Built
+- Vue 3, PrimeVue, PrimeFlex, Vue I18n
+- Angular (Standalone Components), Angular Material, NGX-Translate
+- HTML5, CSS3, ARIA Accessibility Tags
 
-- **Restock**: Inventory management platform for medium/large restaurants (Flask + Vue + PostgreSQL)
-- **Catch-Up**: Localized book explorer built with the Harry Potter API (Vue 3 + Vue I18n + Axios)
-- **Premium Haus**: E-commerce prototype using a three-tier architecture with Spring Boot & NGINX
-- **Tutorías UPC**: Teaching assistant for programming fundamentals and algorithms at my university
+**Backend**
 
-### 🌍 What I'm Into
+- Flask (Python), SQLAlchemy
+- Spring Boot (Java), REST APIs
 
-- Building open source tools with clear architecture and purpose
-- Designing interfaces with great UX and accessibility (ARIA labels, i18n, etc.)
-- Exploring how AI and modern software shape digital products
-- Writing thoughtful, human-centered code
+**Databases**
+
+- PostgreSQL
+
+**DevOps & Infra**
+
+- NGINX (proxy, load balancer, static content)
+- Docker
+- Git & GitHub
+
+**Others**
+
+- Axios, Postman, Figma, VS Code
+
+---
+
+### 🧠 Projects I've Built
+
+- **Restock**: Inventory management platform for restaurants (Flask + PostgreSQL + Vue 3)
+- **Catch-Up**: Book explorer using the Potter API with full i18n support (Vue 3 + Axios + Vue I18n)
+- **Premium Haus**: E-commerce system with 3-layer architecture (Spring Boot + NGINX + PostgreSQL)
+- **UI-Topic (Open Source)**: Modern Angular platform with full internationalization, accessibility, and modular architecture — for digital product exploration
+
+---
+
+### 👨🏻‍🏫 Academic Contributions
+
+- Teaching assistant for "Intro to Algorithms" and "Algorithms" at UPC
+- Focused on helping first-year students build strong problem-solving foundations
+
+---
+
+### 🌍 What Drives Me
+
+- Open source collaboration and scalable architecture
+- UI/UX best practices with localization & accessibility
+- Human-centered software with long-term maintainability
+- Mixing creativity (music) and logic (code) every chance I get
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/jahaziel-guerra)
+- [Instagram](https://instagram.com/jahazielgpz)
+- Portfolio coming soon at `jahaziel.dev`
