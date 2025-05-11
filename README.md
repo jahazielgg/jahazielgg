@@ -38,7 +38,7 @@ I'm a Software Engineering student passionate about building scalable web apps w
 - **Restock**: Inventory management platform for restaurants (Flask + PostgreSQL + Vue 3)
 - **Catch-Up**: Book explorer using the Potter API with full i18n support (Vue 3 + Axios + Vue I18n)
 - **Premium Haus**: E-commerce system with 3-layer architecture (Spring Boot + NGINX + PostgreSQL)
-- **UI-Topic (Open Source)**: Modern Angular platform with full internationalization, accessibility, and modular architecture — for digital product exploration
+- **Tutorías UPC**: Teaching assistant for programming fundamentals and algorithms at my university
 
 ---
 
