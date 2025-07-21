@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Clean+Architecture+%26+DDD+Specialist;Full-Stack+Developer;Teaching+C%2B%2B+%26+Algorithms;Building+the+Future+in+Peru+🇵🇪)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Clean+Architecture+%26+DDD+Specialist;Full-Stack+Developer;Teaching+C%2B%2B+%26+Algorithms;Building+the+Future+in+Peru+🇵🇪)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahaziel-guerra)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jahazielgg)
