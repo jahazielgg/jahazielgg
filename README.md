@@ -18,7 +18,7 @@
 ```typescript
 const jahaziel: Developer = {
   university: "Universidad Peruana de Ciencias Aplicadas (UPC)",
-  year: "5th Semester",
+  year: "6th Semester",
   major: "Software Engineering",
   location: "Lima, Peru 🇵🇪",
   
