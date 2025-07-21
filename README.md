@@ -4,10 +4,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Clean+Architecture+%26+DDD+Specialist;Full-Stack+Developer;Teaching+C%2B%2B+%26+Algorithms;Building+the+Future+in+Peru+🇵🇪)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahaziel)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jahaziel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahaziel-guerra)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jahazielgg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jahaziel.dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahaziel@upc.edu.pe)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahazielgpz@gmail.com)
 
 </div>
 
@@ -73,19 +73,6 @@ graph TD
 | **Java Spring Boot** | 🌟🌟🌟🌟⭐ | Microservices, REST APIs |
 | **Node.js + Express** | 🌟🌟🌟🌟⭐ | Real-time applications, Socket.io integration |
 | **Entity Framework Core** | 🌟🌟🌟🌟🌟 | Complex domain modeling, discriminators |
-
-```csharp
-// Example: Custom Value Object Configuration
-public class RecipeIdentifierConfiguration : IEntityTypeConfiguration<Recipe>
-{
-    public void Configure(EntityTypeBuilder<Recipe> builder)
-    {
-        builder.Property(r => r.Id)
-               .HasConversion<RecipeIdentifierConverter>()
-               .HasColumnName("recipe_id");
-    }
-}
-```
 
 </details>
 
