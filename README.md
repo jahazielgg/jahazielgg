@@ -45,18 +45,6 @@ const jahaziel: Developer = {
 <details>
 <summary><b>🏗️ Architecture & Design Patterns</b></summary>
 
-```mermaid
-graph TD
-    A[🎯 Domain Layer] --> B[📱 Application Layer]
-    B --> C[🔧 Infrastructure Layer]
-    C --> D[🌐 Interfaces Layer]
-    
-    E[Value Objects] --> A
-    F[Anti-Corruption Layer] --> B
-    G[External Services] --> B
-    H[Facades] --> B
-```
-
 - **Clean Architecture** (4-Layer Implementation)
 - **Domain-Driven Design** with Value Objects
 - **Anti-Corruption Layers** & External Service Integration
@@ -176,14 +164,14 @@ graph TD
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahaziel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahaziel&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahazielgg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahazielgg&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jahaziel&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jahazielgg&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
